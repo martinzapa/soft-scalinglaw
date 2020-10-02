@@ -4,7 +4,7 @@ El objetivo de esta aplicación consiste en emplear un método de ánalisis de f
 
 Con este software se pretende ofrecer un método que permita la comparación entre los distintos estudios de escala y poder así realizar comparaciones.
 
-## Instalación
+## Ejecución
 
 Compatible con Windows, Mac OS y Linux.
 
