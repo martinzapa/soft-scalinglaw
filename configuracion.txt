@@ -1,0 +1,15 @@
+generales_1977.xlsx	7	8121	14	96
+generales_1979.xlsx	7	8061	14	69
+generales_1982.xlsx	7	7942	14	77
+generales_1986.xlsx	7	8064	14	64
+generales_1989.xlsx	7	8073	14	77
+generales_1993.xlsx	7	8094	14	99
+generales_1996.xlsx	7	8104	14	83
+generales_2000.xlsx	7	8111	14	107
+generales_2004.xlsx	7	8116	14	110
+generales_2008.xlsx	7	8119	14	112
+generales_2011.xlsx	7	8123	14	76
+generales_2015.xlsx	7	8130	14	70
+generales_2016.xlsx	7	8132	14	65
+generales_2019_1.xlsx	7	8138	14	81
+generales_2019_2.xlsx	7	8138	14	81
